@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoMvvM</string>
+    <string name="str_something_went_wrong">Something went wrong</string>
+    <string name="str_no_internet">No interenet</string>
+    <string name="str_session_expried_msg">Session Expired</string>
+    <string name="lbl_faq">FAQ</string>
+    <string name="need_permission">Need Permission</string>
+    <string name="app_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="newsListOfflineData">newsdata</string>
+    <string name="str_mobile_number_hint">Mobile Number</string>
+    <string name="str_password_hint">Password</string>
+    <string name="str_login">Login</string>
+    <string name="err_empty_mobile_number">enter mobile number</string>
+</resources>
